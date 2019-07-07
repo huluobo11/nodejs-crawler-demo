@@ -1,0 +1,21 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cnpm": "^6.1.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "async-limiter": "^1.0.0",
+    "buffer-from": "^1.1.1",
+    "pend": "^1.2.0",
+    "puppeteer": "^1.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
